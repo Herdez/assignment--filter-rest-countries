@@ -1,0 +1,24 @@
+.main-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin-bottom: 15px;
+}
+
+
+.flag {
+  margin-left: 8px;
+  width: 22px;
+}
+
+table * {
+  border: 1px solid #E5E7E9;
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+table tbody tr {
+  background-color: #E5E7E9;
+}
