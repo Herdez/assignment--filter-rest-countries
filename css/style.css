@@ -2,14 +2,14 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 20px;
-  margin-bottom: 15px;
+  padding: 9px 18px;
+  margin-bottom: 13px;
 }
 
 
 .flag {
   margin-left: 8px;
-  width: 22px;
+  width: 23px;
 }
 
 table * {
@@ -19,6 +19,7 @@ table * {
   border-collapse: collapse;
 }
 
-table tbody tr {
+
+table tbody tr:nth-of-type(2n) {
   background-color: #E5E7E9;
 }
